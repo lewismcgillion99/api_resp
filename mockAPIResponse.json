@@ -1,105 +1,206 @@
 {
-    "sites": [
+   "sites":[
       {
-        "name": "Manpower Korea",
-        "domains": [
-          {
-            "type": "Dev",
-            "link": "manpower-korea.dev.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Staging",
-            "link": "manpower-korea.staging.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Production",
-            "link": "manpower-korea.production.krakatoa.manpower.volcanic.cloud"
-          }
-        ]
+         "name":"Manpower Korea",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"manpower-korea.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"manpower-korea.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"manpower-korea.production.krakatoa.manpower.volcanic.cloud"
+            }
+         ]
       },
       {
-        "name": "Support APAC Testing site",
-        "domains": [
-          {
-            "type": "Dev",
-            "link": "support-apac-testing-site.dev.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Staging",
-            "link": "support-apac-testing-site.staging.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Production",
-            "link": "support-apac-testing-site.production.krakatoa.manpower.volcanic.cloud"
-          }
-        ]
+         "name":"Support APAC Testing site",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"support-apac-testing-site.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"support-apac-testing-site.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"support-apac-testing-site.production.krakatoa.manpower.volcanic.cloud"
+            }
+         ]
       },
       {
-        "name": "Demo Site",
-        "domains": [
-          {
-            "type": "Dev",
-            "link": "demo-site.dev.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Staging",
-            "link": "demo-site.staging.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Production",
-            "link": "demo-site.production.krakatoa.manpower.volcanic.cloud"
-          }
-        ]
+         "name":"Demo Site",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"demo-site.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"demo-site.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"demo-site.production.krakatoa.manpower.volcanic.cloud"
+            }
+         ]
       },
       {
-        "name": "Prime Manpower Resources Development",
-        "domains": [
-          {
-            "type": "Dev",
-            "link": "prime-manpower-resources-development.dev.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Staging",
-            "link": "prime-manpower-resources-development.staging.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Production",
-            "link": "prime-manpower-resources-development.production.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Primary",
-            "link": "www.primemanpower.com.ph"
-          },
-          {
-            "type": "Redirect",
-            "link": "primemanpower.com.ph"
-          }
-        ]
+         "name":"Prime Manpower Resources Development",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"prime-manpower-resources-development.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"prime-manpower-resources-development.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"prime-manpower-resources-development.production.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Primary",
+               "link":"www.primemanpower.com.ph"
+            },
+            {
+               "type":"Redirect",
+               "link":"primemanpower.com.ph"
+            }
+         ]
       },
       {
-        "name": "Manpower IE",
-        "domains": [
-          {
-            "type": "Dev",
-            "link": "experis-ie.dev.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Staging",
-            "link": "experis-ie.staging.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Production",
-            "link": "experis-ie.production.krakatoa.manpower.volcanic.cloud"
-          },
-          {
-            "type": "Primary",
-            "link": "www.manpowergroup.ie"
-          },
-          {
-            "type": "Redirect",
-            "link": "manpowergroup.ie"
-          }
-        ]
+         "name":"Manpower IE",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"experis-ie.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"experis-ie.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"experis-ie.production.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Primary",
+               "link":"www.manpowergroup.ie"
+            },
+            {
+               "type":"Redirect",
+               "link":"manpowergroup.ie"
+            }
+         ]
+      },
+      {
+         "name":"Manpower Korea",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"manpower-korea.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"manpower-korea.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"manpower-korea.production.krakatoa.manpower.volcanic.cloud"
+            }
+         ]
+      },
+      {
+         "name":"Support APAC Testing site",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"support-apac-testing-site.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"support-apac-testing-site.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"support-apac-testing-site.production.krakatoa.manpower.volcanic.cloud"
+            }
+         ]
+      },
+      {
+         "name":"Demo Site",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"demo-site.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"demo-site.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"demo-site.production.krakatoa.manpower.volcanic.cloud"
+            }
+         ]
+      },
+      {
+         "name":"Prime Manpower Resources Development",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"prime-manpower-resources-development.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"prime-manpower-resources-development.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"prime-manpower-resources-development.production.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Primary",
+               "link":"www.primemanpower.com.ph"
+            },
+            {
+               "type":"Redirect",
+               "link":"primemanpower.com.ph"
+            }
+         ]
+      },
+      {
+         "name":"Manpower IE",
+         "domains":[
+            {
+               "type":"Dev",
+               "link":"experis-ie.dev.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Staging",
+               "link":"experis-ie.staging.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Production",
+               "link":"experis-ie.production.krakatoa.manpower.volcanic.cloud"
+            },
+            {
+               "type":"Primary",
+               "link":"www.manpowergroup.ie"
+            },
+            {
+               "type":"Redirect",
+               "link":"manpowergroup.ie"
+            }
+         ]
       }
-    ]
-  }
+   ]
+}
